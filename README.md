@@ -10,7 +10,7 @@
 
 #### _How to download_
 ##### Use the following command in the command line:
-	git clone 
+	git clone https://github.com/SantiagoLopez012/Polygons
 ##### Note: it is important not to move any of the files for the script to function properly.
 
 #### _How to use it_
