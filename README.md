@@ -2,7 +2,7 @@
 
 ##### Author: Lopez, Santiago, Cégep de Sherbrooke, 2022
 
-#### _**Who was this made for**_
+#### **Who was this made for**
 ##### This program was designed to aid the study of light pollution, specifically the characterization of artificial light sources. However, individuals may find useful to reuse some parts of code for other projects.
 
 #### _What it does_
