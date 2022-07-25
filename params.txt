@@ -1,0 +1,6 @@
+dev_key: '' #developer key for the Google Street View API
+dir_img: '' #path to the directory where the images will be downloaded
+shape: [30,30] #shape of the grid of polygons at the end of the process
+coords: ['45.44811, -75.8087','45.47123, -75.58211','45.3816, -75.58073','45.36906, -75.78398'] #polygon of the zone to study 
+region: ['Madrid','Spain'] #['city','country']
+method: 'name' #either 'name' or 'coords'. The zone to study will be determined by this method. If 'name' is selected, verification will be needed
